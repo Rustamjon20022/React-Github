@@ -1,0 +1,57 @@
+.voluptates{
+    position: relative;
+}
+.Voluptate{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 860px;
+}
+.Sape{
+    position: relative;
+    box-sizing: border-box;
+}
+.Sap{
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 700px;
+}
+hr{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 700px;
+ 
+}
+.Sape .pi{
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 700px;
+    font-style: italic;
+    font-size: 18px;
+    color: rgb(95, 107, 160);  
+}
+.check{
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 700px;
+}
+.check p{
+    color: darkblue;
+    font-style: italic;
+    font-size: 18px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
